@@ -1,2 +1,2 @@
 # sounds_like_charlie
-Portfolio music website
+React based portfolio website to showcase music by sounds_like_charlie.
